@@ -25,6 +25,8 @@ jobs:
         run: ./gradlew check assemble
 
   required-status-check:
+    permissions:
+      contents: read
     needs:
       - pr-checks
     runs-on: ubuntu-latest
