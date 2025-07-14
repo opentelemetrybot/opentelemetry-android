@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: OpenTelemetry Community
+    url: https://opentelemetry.io/community/
+    about: General OpenTelemetry community resources and communication channels
+  - name: OpenTelemetry Documentation
+    url: https://opentelemetry.io/docs/languages/android/
+    about: Official OpenTelemetry Android documentation
+  - name: OpenTelemetry Discussions
+    url: https://github.com/open-telemetry/opentelemetry-android/discussions
+    about: Community discussions for OpenTelemetry Android
